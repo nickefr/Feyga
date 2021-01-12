@@ -1,0 +1,10 @@
+#chess_table TD {width: 2.60em; height:14em;border:4px solid black;text-align:center;}
+#chess_table TD.line_label {width:4em;border:2px;}
+#chess_table TD.column_label {height:2em;border:0px;}
+#chess_table {border-collapse: collapse;}
+TD.B_square {background-color:#DDD;}
+TD.R_square {background-color:#FFF;}
+
+IMG.piece {width: 1.112em; height:1.3em;}
+TD.pmove {border:3px solid blue; background-color:yellow;}
+TD.tomove {border:3px solid blue; background-color:blue;}
